@@ -1,0 +1,21 @@
+.contact-information{
+  display: none;
+}
+
+.contact-information.active{
+  display: block;
+}
+.card-desc {
+  padding: 10px;
+  text-align: left;
+  font-size: 18px;
+}
+
+.card-image {
+  display: flex;
+}
+
+div.card-image img {
+  width: 50%;
+  height: auto;
+}
